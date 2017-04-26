@@ -2,4 +2,3 @@ pyserial
 gevent
 smbus-cffi
 RPi.GPIO
-PyQT4
