@@ -12,6 +12,6 @@ Rewrite of Minion software with PyQT4
    sudo apt-get install PyQt-dev-tools
    ```
 1. make symlink to virtual environment:
-  2. `ln -s /usr/lib/python2.7/dist-packages/PyQt4/ PathToVirtualEnv/lib/python2.7/site-packages/`
-  2. `ln -s /usr/lib/python2.7/dist-packages/sip.so PathToVirtualEnv/lib.python2.7/site-packages/`
+   * `ln -s /usr/lib/python2.7/dist-packages/PyQt4/ PathToVirtualEnv/lib/python2.7/site-packages/`
+   * `ln -s /usr/lib/python2.7/dist-packages/sip.so PathToVirtualEnv/lib.python2.7/site-packages/`
 
